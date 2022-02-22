@@ -25,7 +25,7 @@
     }
   ],
   "screenshots": [],
-  "platform": "19.0.0.0",
+  "platform": "1.0.0.0",
   "target": "OnPrem",
-  "runtime": "8.0"
+  "runtime": "5.0"
 }
